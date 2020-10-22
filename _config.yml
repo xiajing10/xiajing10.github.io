@@ -122,10 +122,10 @@ menu:
   categories: /categories/
   tags: /tags/
   archives: /archives/
-  #date: /date/
+  # date: /date/
   # webkit: /webkit/
-  #sitemap: /sitemap.xml
-  commonweal: /404.html
+  # sitemap: /sitemap.xml
+  # commonweal: /404.html
 
 
 # Enable/Disable menu icons.
