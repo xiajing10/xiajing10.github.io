@@ -3,36 +3,13 @@ title: Interview Notes
 categories:
   - career
 tags: job hunting, interview
-published: false
+published: true
 ---
 
 # Interview Notes
 
-## Volvo Cars - Data Scientist (ca. 3h)
-
-**PART ONE**
-Casual Talk with Ronnie
-Introduction of current team and future aims
-
-**PART TWO**  
-Self introduction + my thesis project  
-Q: why not topic modelling  
-Q: how to encode words   
-Q: why just abstract and title  
-
-**PART THREE**  
-Very detailed discussion about `Data Challenge`
-
-
-
-**Improvements in the future**
-
-
-**Knowledge**
-1.  Process of prediction task (Time series analysis model, machine learning model, etc.)
-2.  Boxplot
-
-------------
+Tips: 中文为国内职位，英文为在瑞典职位。
+不定时更新。
 
 ## 华为 （NLP算法工程师）
 
@@ -74,11 +51,70 @@ HW消费者云服务部 - 搜索推荐系统和NLP基础任务（分词，词性
 注意区分： 最长公共子串 （子串字符必须连续，子序列可不连续）  
 例： `abcde`, `adjabce` 最长公共子串 `abc`, 最长公共子序列 `abce`
 **PART THREE**
+为什么转行  
 聊做过的项目（基本同一面）  
 对NLP近几年的最新技术有没有什么了解  
 情景问题：query的意图识别怎么做，怎么找特征
 
 
+## 科大讯飞 
+Notes: 春招末尾，两面都没有写代码，无笔试
+
+一面 2020.04 
+聊项目相关
+- 机器翻译的课程项目，目的，技术，有什么发现
+技术相关
+- 命令行实现查看文档字数，读取文档内容
+- 如果文档过大（一次读入会占满内存）应该怎么读
+- python里加入测试的方法（`assert`）
+
+二面 2020.04
+聊项目相关
+- 毕业论文(当时正在做):讲项目思路从大到小，不涉及具体技术（除非面试官后来问到）  
+
+技术相关
+- BERT 原理
+- 熵是什么，公式
+- 决策树原理是什么
+
+（这是第一次面国内的技术岗，很懵，也不知道该怎么说项目，很多技术概念也没有准备，而且当时因为忙论文的事比较焦虑。感激这次的面试官教了很多。）
+
+----
+
+## Volvo Cars - Data Scientist (ca. 3h)
+
+**PART ONE**
+Casual Talk
+Introduction of current team and future aims
+
+**PART TWO**  
+Self introduction + my thesis project  
+Q: why not topic modelling  
+Q: how to encode words   
+Q: why just abstract and title  
+
+**PART THREE**  
+A case:  
+The manager wants to test whether the amount of visitor on a website increase after a typical change.
+
+A/B testing
+
+think about:  
+- the type of data
+- how would you do initial analysis and in which dimension
+- how to test the number increase or not (simulate data distribution, significant test, confidence interval, etc.)
+
+**PART FOUR**  
+Very detailed discussion about `Data Challenge`
+
+**Improvements in the future**
+
+
+**Knowledge**
+1.  Process and concepts of prediction task (Time series analysis model, machine learning model, etc.)
+2.  Boxplot
+
+------------
 
 
 
