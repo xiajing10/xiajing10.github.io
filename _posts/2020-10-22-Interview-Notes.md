@@ -2,8 +2,8 @@
 title: Interview Notes
 categories:
   - career
-tags: job hunting, interview
-published: true
+tags: job_hunting; interview
+published: false
 ---
 
 # Interview Notes
@@ -49,7 +49,7 @@ HW消费者云服务部 - 搜索推荐系统和NLP基础任务（分词，词性
 **PART TWO**   
 现场代码: [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)   
 注意区分： 最长公共子串 （子串字符必须连续，子序列可不连续）  
-例： `abcde`, `adjabce` 最长公共子串 `abc`, 最长公共子序列 `abce`
+例： `abcde`, `adjabce` 最长公共子串 `abc`, 最长公共子序列 `abce`   
 **PART THREE**
 为什么转行  
 聊做过的项目（基本同一面）  
