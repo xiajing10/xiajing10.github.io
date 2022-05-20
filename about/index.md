@@ -6,7 +6,7 @@ layout: page
 
 <p>Hello!</p>
 
-<p>I am Xiajing, a computational linguistics and a blogger.</p>
+<p>I am Xiajing, a data scientist, a cat lover and a blogger.</p>
 
 
 <div>
