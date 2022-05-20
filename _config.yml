@@ -87,7 +87,7 @@ keywords: ""
 rss:
 
 # Specify the date when the site was setup
-#since: 2017
+since: 2020
 
 # icon between year and author @Footer
 authoricon: heart
@@ -303,7 +303,7 @@ sidebar:
 scroll_to_more: true
 
 # Automatically saving scroll position on each post/page in cookies.
-save_scroll: enable
+save_scroll: false
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
